@@ -1,0 +1,25 @@
+* {
+    font-family: "Arial";
+}
+
+h1 {
+    justify-content: flex-start;
+    padding: 10px;
+    margin-left: 20px;
+    background-color: cyan;
+    color: black;
+}
+
+header {
+    padding: 40px;
+    text-align: right;
+    background-color: gray;
+    color: cyan;
+}
+
+nav {
+    flex-direction: row;
+    display: block;
+    margin-right: 20px;
+    color: cyan;
+}
