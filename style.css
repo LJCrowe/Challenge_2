@@ -1,15 +1,19 @@
+/*universal for page*/
 * {
     font-family: "Arial";
+    background-color: navy;
+    color: chocolate;
 }
 
-header {
+/*!!!!!!!!!!!!!!HEADER!!!!!!!!!!!!!!!!!!!!*/
+/* header {
     position: relative;
     text-align: right;
     background-color: gray;
     color: cyan;
 }
 
-h1 {
+header div {
     align-content: flex-start;
     padding: 10px;
     margin-right: 875px;
@@ -17,10 +21,22 @@ h1 {
     color: black;
 }
 
-nav {
+header nav {
     flex-direction: row;
     display: block;
     padding: 20px;
     color: cyan;
     text-decoration: underline;
+} */
+
+/*!!!!!!!!!!!!!!!!!!!!!MAIN!!!!!!!!!!!!!!!!!!!!!*/
+main {
+    font-family: "Arial";
+    background-color: cornsilk;
+    color: navy;
 }
+
+
+/*
+*/
+
