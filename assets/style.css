@@ -1,18 +1,12 @@
-/*universal for page*/
-* {
-    font-family: "Arial";
-    background-color: navy;
-    color: chocolate;
-}
-
 /*!!!!!!!!!!!!!!HEADER!!!!!!!!!!!!!!!!!!!!*/
-/* header {
-    position: relative;
-    text-align: right;
+header h1 {
+    display: flex;
+    justify-content: space-between;
     background-color: gray;
     color: cyan;
 }
 
+/*
 header div {
     align-content: flex-start;
     padding: 10px;
@@ -21,7 +15,7 @@ header div {
     color: black;
 }
 
-header nav {
+header nav{
     flex-direction: row;
     display: block;
     padding: 20px;

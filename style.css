@@ -1,0 +1,42 @@
+/*!!!!!!!!!!!!!!HEADER!!!!!!!!!!!!!!!!!!!!*/
+body {
+    display: flex;
+    flex-direction: row;
+    background-color: antiquewhite;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    background-color: gray;
+    color: aqua;
+}
+
+.lc-develop {
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    color: gray;
+}
+
+.links {
+    flex-direction: row;
+    padding: 20px;
+    text-decoration: underline;
+    justify-content: space-between;
+    background-color: gray;
+    color: cyan;
+}  
+
+/*!!!!!!!!!!!!!!!!!!!!!MAIN!!!!!!!!!!!!!!!!!!!!!*/
+main {
+
+}
+
+.titles 
+
+/*!!!!!!!!!!!!!!!!!!!!!!FOOTER!!!!!!!!!!!!!!!!!!!*/
+footer {
+
+}
