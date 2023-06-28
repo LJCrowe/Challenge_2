@@ -19,6 +19,7 @@ header {
 
 .lc-develop h2 {
     display: flex-end;
+    align-items: flex-end;
     background-color: aqua;
     color: #2B2E33;
     padding: 20px;
@@ -35,11 +36,10 @@ header {
 }  
 
 /*!!!!!!!!!!!!!!!!!!!!!MAIN!!!!!!!!!!!!!!!!!!!!!*/
-main {
-
-}
-
-.titles 
+.titles h2 {
+    display: inline-flex;
+    flex-direction: column;
+} 
 
 /*!!!!!!!!!!!!!!!!!!!!!!FOOTER!!!!!!!!!!!!!!!!!!!*/
 footer {
