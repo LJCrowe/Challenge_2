@@ -1,33 +1,47 @@
 /*!!!!!!!!!!!!!!HEADER!!!!!!!!!!!!!!!!!!!!*/
-header h1 {
+body {
+    background-color: antiquewhite;
+}
+
+header {
     display: flex;
-    justify-content: space-between;
-    background-color: gray;
-    color: cyan;
+    background-color: #2B2E33;
+    color: aqua;
 }
 
-/*
-header div {
-    align-content: flex-start;
-    padding: 10px;
-    margin-right: 875px;
-    background-color: cyan;
-    color: black;
-}
-
-header nav{
-    flex-direction: row;
-    display: block;
+.lc-develop h1 {
+    display: flex-start;
+    background-color: aqua;
+    color: #2B2E33;
     padding: 20px;
-    color: cyan;
+    margin-bottom: 2px;
+}
+
+.lc-develop h2 {
+    display: flex-end;
+    background-color: aqua;
+    color: #2B2E33;
+    padding: 20px;
+    margin-bottom: 2px;
+}
+
+.links ul li {
+    display: inline-flex;
+    align-content: space-between;
+    padding: 20px;
     text-decoration: underline;
-} */
+    background-color: #2B2E33;
+    color: aqua;
+}  
 
 /*!!!!!!!!!!!!!!!!!!!!!MAIN!!!!!!!!!!!!!!!!!!!!!*/
-/*main {
+main {
 
 }
 
+.titles 
 
-*/
+/*!!!!!!!!!!!!!!!!!!!!!!FOOTER!!!!!!!!!!!!!!!!!!!*/
+footer {
 
+}
